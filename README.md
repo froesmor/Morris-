@@ -1,5 +1,5 @@
 # helloworld
-This is a readme file for my first repository.
+This is the readme file for my first repository.
 
 It is created by Morris Fröschl from the class 5AHME.
 
